@@ -1,7 +1,7 @@
 {
   "name": "CounterPack",
-  "author": "@theseems",
+  "author": "Peaky Blinders Chat",
   "version": "0.1D",
-  "description": "Пак счётчиков ура крутые счетчики го посчитаем",
+  "description": "Pack for maintaining counters exclusively for your chat",
   "main": "us.peaky.counterpack.CounterBotPackage"
 }
