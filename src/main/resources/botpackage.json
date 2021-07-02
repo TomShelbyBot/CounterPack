@@ -1,0 +1,7 @@
+{
+  "name": "CounterPack",
+  "author": "@theseems",
+  "version": "0.1D",
+  "description": "Пак счётчиков ура крутые счетчики го посчитаем",
+  "main": "us.peaky.counterpack.CounterBotPackage"
+}
